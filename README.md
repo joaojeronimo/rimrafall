@@ -6,6 +6,10 @@ This is to show that `npm install` can be as dangerous as `curl dangerous.com | 
 
 It was [taken off the npm registry](https://twitter.com/othiym23/status/559759478774439936) but it solves nothing really, anyone could make malicious modules like this and mask it as a useful module that has a desired use case. Let's try to find ways to **really** make npm safe ;)
 
+### update 2, no intent of being malicious
+
+No, I did not name this package `rimrafall`, submited it to [HN](https://news.ycombinator.com/item?id=8947493), clearly stated what it does and clearly told people **not to install** it with the purpose of having people delete stuff on their computers.
+
 # Whatever you do, do not
 
 ```
